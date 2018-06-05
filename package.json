@@ -1,6 +1,6 @@
 {
   "name": "@adt/exceptions",
-  "version": "0.0.1-SNAPSHOT.1",
+  "version": "0.0.1-SNAPSHOT.2",
   "description": "Base exception class",
   "main": "dist/Exceptions.cjs.js",
   "module": "dist/Exceptions.esm.js",
